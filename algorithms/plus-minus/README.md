@@ -11,8 +11,8 @@ First line contains *N*, which is the size of the array.
 Next line contains *N* integers **A<sub>1</sub>,A<sub>2</sub>,A<sub>3</sub>,⋯,A<sub>N</sub>**, separated by space.
 
 ###Constraints 
-**1≤N≤100** 
-**−100≤A<sub>i</sub>≤100**
+* `1≤N≤100` 
+* `−100≤A<sub>i</sub>≤100`
 
 ###Output Format
 

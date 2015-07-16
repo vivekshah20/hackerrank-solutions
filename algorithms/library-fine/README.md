@@ -16,9 +16,9 @@ You are given the actual and the expected return dates in ***D M Y*** format res
 
 ###Constraints 
 
-**1≤ *D* ≤31**
-**1≤ *M* ≤12** 
-**1≤ *Y* ≤3000**
+* **1≤ *D* ≤31**
+* **1≤ *M* ≤12** 
+* **1≤ *Y* ≤3000**
 
 ###Output Format
 

@@ -10,8 +10,8 @@ You are given a square matrix of size *N×N*. Calculate the absolute difference 
 The first line contains a single integer *N*. The next *N* lines contain *N*ß integers describing the matrix.
 
 ###Constraints 
-**1≤N≤100 **
-**−100≤A[i]≤100**
+* **1≤N≤100**
+* **−100≤A[i]≤100**
 
 ###Output Format
 

@@ -20,7 +20,7 @@ There will be two lines of input: *p*, lowest value *q*, highest value
 
 ###Constraints: 
 
-**0<p<q<100000**
+* 0<p<q<100000
 
 ###Output Format
 

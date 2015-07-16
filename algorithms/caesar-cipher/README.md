@@ -18,9 +18,9 @@ Input consists of an integer *N* equal to the length of the string, followed by 
 
 ###Constraints 
 
-**1≤ *N* ≤100 **
-**0≤ *K* ≤100** 
-**S** is a valid ASCII string and doesn't contain any spaces.
+* **1≤ *N* ≤100**
+* **0≤ *K* ≤100** 
+* **S** is a valid ASCII string and doesn't contain any spaces.
 
 ###Output Format
 
