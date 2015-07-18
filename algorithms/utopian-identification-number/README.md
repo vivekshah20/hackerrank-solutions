@@ -21,10 +21,14 @@ The first line contains N, N lines follow each line containing an identification
 
 For every identification number, please print
 
-```VALID```
+```
+VALID
+```
 if the identification number is valid and print
 
-```INVALID```
+```
+INVALID
+```
 otherwise.
 
 ###Sample Input
