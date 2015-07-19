@@ -1,3 +1,6 @@
+"""
+Working on the solution
+"""
 t = input()
 for i in xrange(t):
 	string, substring = raw_input().split()
