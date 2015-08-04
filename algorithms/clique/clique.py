@@ -1,3 +1,6 @@
+"""Using Turan Graph's Algorithm
+    The number of edges is defined by the formula given below""" 
+
 def Turan(n, r):
     return 0.5*(n**2-(n%r)*(n/r+1)**2-(r-(n%r))*(n/r)**2)
 
